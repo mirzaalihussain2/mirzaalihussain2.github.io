@@ -83,8 +83,7 @@ Building tech products for 5 years across B2B & B2C startups, as a Product Manag
 Experience defining a product vision, validating customer problems, and leading an engineering squad to delivery.
 
 # EXPEREINCE
-### **Gizmo**, Software Engineer  
-**Apr 2024 – Present**
+<h3 class="carlito-regular">**Gizmo**, Software Engineer<span class="carlito-bold" align="right">Apr 2024 – Present</span></h3>
 
 <p class="lato-light-italic">VC-backed web & mobile app for AI-enabled learning, using LLM-generated quizzes. ~94k DAU, 14x YoY revenue growth.</p>
 
