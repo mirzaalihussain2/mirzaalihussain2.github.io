@@ -1,3 +1,83 @@
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        .lato-thin {
+        font-family: "Lato", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+        }
+        .lato-light {
+        font-family: "Lato", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        }
+        .lato-regular {
+        font-family: "Lato", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        }
+        .lato-bold {
+        font-family: "Lato", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        }
+        h1, .lato-black {
+        font-family: "Lato", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        }
+        .lato-thin-italic {
+        font-family: "Lato", sans-serif;
+        font-weight: 100;
+        font-style: italic;
+        }
+        .lato-light-italic {
+        font-family: "Lato", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+        }
+        .lato-regular-italic {
+        font-family: "Lato", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+        }
+        .lato-bold-italic {
+        font-family: "Lato", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+        }
+        .lato-black-italic {
+        font-family: "Lato", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+        }
+        body, .carlito-regular {
+        font-family: "Carlito", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        }
+        .carlito-bold {
+        font-family: "Carlito", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        }
+        .carlito-regular-italic {
+        font-family: "Carlito", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+        }
+        .carlito-bold-italic {
+        font-family: "Carlito", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+        }
+    </style>
+</head>
+
+
 # ALI HUSSAIN
 Building tech products for 5 years across B2B & B2C startups, as a Product Manager and Software Engineer.
 Experience defining a product vision, validating customer problems, and leading an engineering squad to delivery.
@@ -6,7 +86,7 @@ Experience defining a product vision, validating customer problems, and leading 
 ### **Gizmo**, Software Engineer  
 **Apr 2024 – Present**
 
-_VC-backed web & mobile app for AI-enabled learning, using LLM-generated quizzes. ~94k DAU, 14x YoY revenue growth._
+<p class="lato-light-italic">VC-backed web & mobile app for AI-enabled learning, using LLM-generated quizzes. ~94k DAU, 14x YoY revenue growth.</p>
 
 * Built a weekly rank notification; shared by 6.5% of applicable users with 40% re-activation of dormant users.
 * Developed & launched first version of in-game store, achieving above-benchmark D7 feature retention (72%).
@@ -17,7 +97,7 @@ _VC-backed web & mobile app for AI-enabled learning, using LLM-generated quizzes
 ### **Startbook**, Software Engineer  
 **Aug 2023 – Apr 2024**
 
-_A platform for founders, startups and incubators to share pitch decks, manage data, and collaborate with investors and partners. Clients include: Barclays, Imperial College London, LSE, UCL, KCL. Bootstrapped to 6-figure revenue._
+<p class="lato-light-italic">A platform for founders, startups and incubators to share pitch decks, manage data, and collaborate with investors and partners. Clients include: Barclays, Imperial College London, LSE, UCL, KCL. Bootstrapped to 6-figure revenue.</p>
 
 * Eliminated 152 hours of operational work annually by refactoring backend user authentication script.
 * Created a full-stack WYSIWYG email editor, allowing client admins to send 100s of personalised emails at once.
@@ -28,7 +108,7 @@ _A platform for founders, startups and incubators to share pitch decks, manage d
 ### **Limitless Technology**, Product Manager  
 **Nov 2019 – Oct 2022**
 
-_“Uber for customer service”: a marketplace for companies with unmet customer service demand to transact with gig-workers who answer customer service tickets. 73% YoY growth. Clients incl. Microsoft, eBay, Unilever, Sony, Airbnb._
+<p class="lato-light-italic">“Uber for customer service”: a marketplace for companies with unmet customer service demand to transact with gig-workers who answer customer service tickets. 73% YoY growth. Clients incl. Microsoft, eBay, Unilever, Sony, Airbnb.</p>
 
 * Led overhaul of Onboarding feature set, incl. analysing customer surveys, running user interviews and reviewing 100s of support tickets. New features saved the Operations team 52 hours per month.
 * Spearheaded integration with ID verification firm; verifying identities of 1000s of gig-workers across 6 markets.
