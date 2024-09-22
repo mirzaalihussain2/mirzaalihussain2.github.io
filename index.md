@@ -2,88 +2,130 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
     <style>
-        .lato-thin {
+    .lato-thin {
         font-family: "Lato", sans-serif;
         font-weight: 100;
         font-style: normal;
-        }
-        .lato-light {
+    }
+    .lato-light {
         font-family: "Lato", sans-serif;
         font-weight: 300;
         font-style: normal;
-        }
-        .lato-regular {
+    }
+    .lato-regular {
         font-family: "Lato", sans-serif;
         font-weight: 400;
         font-style: normal;
-        }
-        .lato-bold {
+    }
+    .lato-bold {
         font-family: "Lato", sans-serif;
         font-weight: 700;
         font-style: normal;
-        }
-        h1, .lato-black {
+    }
+    .lato-black {
         font-family: "Lato", sans-serif;
         font-weight: 900;
         font-style: normal;
-        }
-        .lato-thin-italic {
+    }
+    .lato-thin-italic {
         font-family: "Lato", sans-serif;
         font-weight: 100;
         font-style: italic;
-        }
-        .lato-light-italic {
+    }
+    .lato-light-italic {
         font-family: "Lato", sans-serif;
         font-weight: 300;
         font-style: italic;
-        }
-        .lato-regular-italic {
+    }
+    .lato-regular-italic {
         font-family: "Lato", sans-serif;
         font-weight: 400;
         font-style: italic;
-        }
-        .lato-bold-italic {
+    }
+    .lato-bold-italic {
         font-family: "Lato", sans-serif;
         font-weight: 700;
         font-style: italic;
-        }
-        .lato-black-italic {
+    }
+    .lato-black-italic {
         font-family: "Lato", sans-serif;
         font-weight: 900;
         font-style: italic;
-        }
-        body, .carlito-regular {
+    }
+    .carlito-regular {
         font-family: "Carlito", sans-serif;
         font-weight: 400;
         font-style: normal;
         }
-        .carlito-bold {
+    .carlito-bold {
         font-family: "Carlito", sans-serif;
         font-weight: 700;
         font-style: normal;
-        }
-        .carlito-regular-italic {
+    }
+    .carlito-regular-italic {
         font-family: "Carlito", sans-serif;
         font-weight: 400;
         font-style: italic;
-        }
-        .carlito-bold-italic {
+    }
+    .carlito-bold-italic {
         font-family: "Carlito", sans-serif;
         font-weight: 700;
         font-style: italic;
-        }
+    }
+    h1 {
+        font-size: 32px;
+        font-family: "Lato", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+    }
+    h2 {
+        font-size: 24px;
+        font-family: "Lato", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+    }
+    h3 {
+        font-size: 20px;
+        font-family: "Carlito", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h4 {
+        font-size: 14px;
+        font-family: "Lato", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    p, ul {
+        font-size: 14px;
+        font-family: "Carlito", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    strong, b {
+        font-weight: 700
+    }
+    em, i {
+        font-style: italic
+    }
     </style>
 </head>
 
 
-# ALI HUSSAIN
-Building tech products for 5 years across B2B & B2C startups, as a Product Manager and Software Engineer.
-Experience defining a product vision, validating customer problems, and leading an engineering squad to delivery.
+<h1 style="text-align: center">ALI HUSSAIN</h3>
 
-# EXPEREINCE
-<h3 class="carlito-regular">**Gizmo**, Software Engineer<span class="carlito-bold" align="right">Apr 2024 – Present</span></h3>
+<p style="text-align: center">
+<i>Building tech products for 5 years across B2B & B2C startups, as a Product Manager and Software Engineer.<br>
+Experience defining a product vision, validating customer problems, and leading an engineering squad to delivery.</i>
+</p>
+
+## EXPERIENCE
+<h3>
+    <b>Gizmo</b>, Software Engineer
+    <div style="text-align: right"><b><i>Apr 2024 – Present</i></b></div>
+</h3>
 
 <p class="lato-light-italic">VC-backed web & mobile app for AI-enabled learning, using LLM-generated quizzes. ~94k DAU, 14x YoY revenue growth.</p>
 
@@ -92,9 +134,11 @@ Experience defining a product vision, validating customer problems, and leading 
 * Reduced machine learning costs for reading PDFs by 30% by optimising the PDF import process.
 * Cut the number of orphaned pages by >90% redesigning public search experience and proliferating internal links.
 
-
-### **Startbook**, Software Engineer  
-**Aug 2023 – Apr 2024**
+<br>
+<h3>
+    <b>Startbook</b>, Software Engineer
+    <div style="text-align: right"><b><i>Aug 2023 – Apr 2024</i></b></div>
+</h3>
 
 <p class="lato-light-italic">A platform for founders, startups and incubators to share pitch decks, manage data, and collaborate with investors and partners. Clients include: Barclays, Imperial College London, LSE, UCL, KCL. Bootstrapped to 6-figure revenue.</p>
 
@@ -104,8 +148,11 @@ Experience defining a product vision, validating customer problems, and leading 
 * Scaled annual subscriptions from London universities by 125% by developing key privacy & sharing features.
 * Worked in a team to port front-end codebase to a new stack, after Vercel discontinued support for legacy stack.
 
-### **Limitless Technology**, Product Manager  
-**Nov 2019 – Oct 2022**
+<br>
+<h3>
+    <b>Limitless Technology</b>, Product Manager
+    <div style="text-align: right"><b><i>Nov 2019 – Oct 2022</i></b></div>
+</h3>
 
 <p class="lato-light-italic">“Uber for customer service”: a marketplace for companies with unmet customer service demand to transact with gig-workers who answer customer service tickets. 73% YoY growth. Clients incl. Microsoft, eBay, Unilever, Sony, Airbnb.</p>
 
@@ -118,34 +165,41 @@ Experience defining a product vision, validating customer problems, and leading 
 * Simulated fee-allocation algorithms in SQL & Excel: fees allocated 4.3% more equitably across 2,000 gig-workers.
 * Analysed data in Python to inform decisions on hourly pay for gig-workers, work distribution, and client setup.
 
-### **Quester**, Product Coach  
-**Aug 2021 – Oct 2022**
+<br>
+<h3>
+    <b>Quester</b>, Product Coach
+    <div style="text-align: right"><b><i>Aug 2021 – Oct 2022</i></b></div>
+</h3>
 
 * Coaching founders weekly at a pre-seed EdTech startup on Product, supported a £200k raise at a £2m valuation.
 * Conducted 15 customer discovery interviews to inform a pivot from young professionals to school-age students.
 
-### **Verisk Sequel (S&P 500)**, Technical Business Analyst  
-**Feb 2019 – Sep 2019**
+<br>
+<h3>
+    <b>Verisk Sequel (S&P 500)</b>, Technical Business Analyst
+    <div style="text-align: right"><b><i>Feb 2019 – Sep 2019</i></b></div>
+</h3>
 
 * Built modern web UIs for flagship insurance engine, used by 3000+ underwriters and brokers globally.
 * Owned delivery of 4 features, incl. wireframes, requirements, and unblocking engineers during development.
 
-# EDUCATION
-**Oxford University**, BA Philosophy, Politics & Economics
-**Sep 2015 – Aug 2018**
+## EDUCATION
+
+<h3>
+    <b>Oxford University</b>, BA Philosophy, Politics & Economics
+    <div style="text-align: right"><b><i>Sep 2015 – Aug 2018</i></b></div>
+</h3>
 
 * JCR President _(2016-17)_ representing 450 students, leading a 35-strong team and overseeing a £28.7k budget.
 
-# TECHNICAL SKILLS
+## TECHNICAL SKILLS
 * **Languages**: TypeScript, Python, SQL, HTML, CSS.
 * **Frameworks & libraries**: React (Next.js, Remix), React Native (Expo), Angular, Svelte, Express, Koa, Flask, Django.
 * **Databases**: PostgreSQL, mySQL, Firebase, mongoDB, Redis.
 * **DevOps**: Docker, GCP , Vercel & Heroku (for deployment), GitHub Actions (for CI), BetterStack (for observability).
 
-# INTERESTS
+## INTERESTS
 * **Cycling**: Spent 12 days bike-packing the Netherlands in Aug 2023, completed the 1000km Ronde van Nederland.
 * **Travelling**: Travelled Southeast Asia Nov 2022 to Feb 2023; highlight was mountain-biking around Angkor Wat.
 * **Boxing**: Competed in a white collar boxing match for CALM charity, after only 10 weeks training. Sold 36 tickets.
 * **Volunteering**: Urdu translator surveying Calais ‘Jungle’ for Help Refugees; census published in The Guardian.
-
-
