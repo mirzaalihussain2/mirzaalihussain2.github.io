@@ -1,5 +1,6 @@
 ---
 title: "hello it's joyyy"
+show_title: false
 description: "dis da description"
 ---
 
