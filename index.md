@@ -118,7 +118,7 @@
 </head>
 
 
-<h1 style="text-align: center">ALI HUSSAIN</h3>
+<h1 style="text-align: center">ALI HUSSAIN</h1>
 
 <p style="text-align: center">
 <i>Building tech products for 5 years across B2B & B2C startups, as a Product Manager and Software Engineer.<br>
@@ -126,7 +126,7 @@ Experience defining a product vision, validating customer problems, and leading 
 </p>
 <br>
 
-## EXPERIENCE
+<h2>EXPERIENCE</h2>
 <h3>
     <a href="https://gizmo.ai/"><b>Gizmo</b></a>, Software Engineer
     <div style="text-align: right"><b><i>Apr 2024 – Present</i></b></div>
@@ -134,10 +134,12 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <p class="lato-light-italic">VC-backed web & mobile app for AI-enabled learning, using LLM-generated quizzes. ~94k DAU, 14x YoY revenue growth.</p>
 
-* Built a weekly rank notification; shared by 6.5% of applicable users with 40% re-activation of dormant users.
-* Developed & launched first version of in-game store, achieving above-benchmark D7 feature retention (72%).
-* Reduced machine learning costs for reading PDFs by 30% by optimising the PDF import process.
-* Cut the number of orphaned pages by >90% redesigning public search experience and proliferating internal links.
+<ul>
+    <li>Built a weekly rank notification; shared by 6.5% of applicable users with 40% re-activation of dormant users.</li>
+    <li>Developed & launched first version of in-game store, achieving above-benchmark D7 feature retention (72%).</li>
+    <li>Reduced machine learning costs for reading PDFs by 30% by optimising the PDF import process.</li>
+    <li>Cut the number of orphaned pages by >90% redesigning public search experience and proliferating internal links.</li>
+</ul>
 
 <br>
 <h3>
@@ -147,11 +149,13 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <p class="lato-light-italic">A platform for founders, startups and incubators to share pitch decks, manage data, and collaborate with investors and partners. Clients include: Barclays, Imperial College London, LSE, UCL, KCL. Bootstrapped to 6-figure revenue.</p>
 
-* Eliminated 152 hours of operational work annually by refactoring backend user authentication script.
-* Created a full-stack WYSIWYG email editor, allowing client admins to send 100s of personalised emails at once.
-* Redesigned backend APIs to deliver smaller payloads, improve type safety & reduce errors. Cut downtime by 35%.
-* Scaled annual subscriptions from London universities by 125% by developing key privacy & sharing features.
-* Worked in a team to port front-end codebase to a new stack, after Vercel discontinued support for legacy stack.
+<ul>
+    <li>Eliminated 152 hours of operational work annually by refactoring backend user authentication script.</li>
+    <li>Created a full-stack WYSIWYG email editor, allowing client admins to send 100s of personalised emails at once.</li>
+    <li>Redesigned backend APIs to deliver smaller payloads, improve type safety & reduce errors. Cut downtime by 35%.</li>
+    <li>Scaled annual subscriptions from London universities by 125% by developing key privacy & sharing features.</li>
+    <li>Worked in a team to port front-end codebase to a new stack, after Vercel discontinued support for legacy stack.</li>
+</ul>
 
 <br>
 <h3>
@@ -161,14 +165,16 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <p class="lato-light-italic">“Uber for customer service”: a marketplace for companies with unmet customer service demand to transact with gig-workers who answer customer service tickets. 73% YoY growth. Clients incl. Microsoft, eBay, Unilever, Sony, Airbnb.</p>
 
-* Led overhaul of Onboarding feature set, incl. analysing customer surveys, running user interviews and reviewing 100s of support tickets. New features saved the Operations team 52 hours per month.
-* Spearheaded integration with ID verification firm; verifying identities of 1000s of gig-workers across 6 markets.
-* Shipped new set of automated emails: 63% rise in customer ratings received, 75% rise in customer resolutions.
-* Managed 5-strong team to ship features reducing time taken to create learning material by 81% across 13 clients.
-* Increased gross margin by $37.7k annually on a key client by experimenting with different ticket pricing strategies.
-* Redesigned our peer-review process to make it 5.1% faster across 129,000 customer service queries per quarter.
-* Simulated fee-allocation algorithms in SQL & Excel: fees allocated 4.3% more equitably across 2,000 gig-workers.
-* Analysed data in Python to inform decisions on hourly pay for gig-workers, work distribution, and client setup.
+<ul>
+    <li>Led overhaul of Onboarding feature set, incl. analysing customer surveys, running user interviews and reviewing 100s of support tickets. New features saved the Operations team 52 hours per month.</li>
+    <li>Spearheaded integration with ID verification firm; verifying identities of 1000s of gig-workers across 6 markets.</li>
+    <li>Shipped new set of automated emails: 63% rise in customer ratings received, 75% rise in customer resolutions.</li>
+    <li>Managed 5-strong team to ship features reducing time taken to create learning material by 81% across 13 clients.</li>
+    <li>Increased gross margin by $37.7k annually on a key client by experimenting with different ticket pricing strategies.</li>
+    <li>Redesigned our peer-review process to make it 5.1% faster across 129,000 customer service queries per quarter.</li>
+    <li>Simulated fee-allocation algorithms in SQL & Excel: fees allocated 4.3% more equitably across 2,000 gig-workers.</li>
+    <li>Analysed data in Python to inform decisions on hourly pay for gig-workers, work distribution, and client setup.</li>
+</ul>
 
 <br>
 <h3>
@@ -176,8 +182,10 @@ Experience defining a product vision, validating customer problems, and leading 
     <div style="text-align: right"><b><i>Aug 2021 – Oct 2022</i></b></div>
 </h3>
 
-* Coaching founders weekly at a pre-seed EdTech startup on Product, supported a £200k raise at a £2m valuation.
-* Conducted 15 customer discovery interviews to inform a pivot from young professionals to school-age students.
+<ul>
+    <li>Coaching founders weekly at a pre-seed EdTech startup on Product, supported a £200k raise at a £2m valuation.</li>
+    <li>Conducted 15 customer discovery interviews to inform a pivot from young professionals to school-age students.</li>
+</ul>
 
 <br>
 <h3>
@@ -185,32 +193,42 @@ Experience defining a product vision, validating customer problems, and leading 
     <div style="text-align: right"><b><i>Feb 2019 – Sep 2019</i></b></div>
 </h3>
 
-* Built modern web UIs for flagship insurance engine, used by 3000+ underwriters and brokers globally.
-* Owned delivery of 4 features, incl. wireframes, requirements, and unblocking engineers during development.
+<ul>
+    <li>Built modern web UIs for flagship insurance engine, used by 3000+ underwriters and brokers globally.</li>
+    <li>Owned delivery of 4 features, incl. wireframes, requirements, and unblocking engineers during development.</li>
+</ul>
 
 <br>
 
-## EDUCATION
+<h2>EDUCATION</h2>
 
 <h3>
     <b>Oxford University</b>, BA Philosophy, Politics & Economics
     <div style="text-align: right"><b><i>Sep 2015 – Aug 2018</i></b></div>
 </h3>
 
-* JCR President _(2016-17)_ representing 450 students, leading a 35-strong team and overseeing a £28.7k budget.
+<ul>
+    <li>JCR President <i>(2016-17)</i> representing 450 students, leading a 35-strong team and overseeing a £28.7k budget.</li>
+</ul>
 
 <br>
 
-## TECHNICAL SKILLS
-* **Languages**: TypeScript, Python, SQL, HTML, CSS.
-* **Frameworks & libraries**: React (Next.js, Remix), React Native (Expo), Angular, Svelte, Express, Koa, Flask, Django.
-* **Databases**: PostgreSQL, mySQL, Firebase, mongoDB, Redis.
-* **DevOps**: Docker, GCP , Vercel & Heroku (for deployment), GitHub Actions (for CI), BetterStack (for observability).
+<h2>TECHNICAL SKILLS</h2>
+
+<ul>
+    <li><b>Languages</b>: TypeScript, Python, SQL, HTML, CSS.</li>
+    <li><b>Frameworks & libraries</b>: React (Next.js, Remix), React Native (Expo), Angular, Svelte, Express, Koa, Flask, Django.</li>
+    <li><b>Databases</b>: PostgreSQL, mySQL, Firebase, mongoDB, Redis.</li>
+    <li><b>DevOps</b>: Docker, GCP , Vercel & Heroku (for deployment), GitHub Actions (for CI), BetterStack (for observability).</li>
+</ul>
 
 <br>
 
-## INTERESTS
-* **Cycling**: Spent 12 days bike-packing the Netherlands in Aug 2023, completed the 1000km Ronde van Nederland.
-* **Travelling**: Travelled Southeast Asia Nov 2022 to Feb 2023; highlight was mountain-biking around Angkor Wat.
-* **Boxing**: Competed in a white collar boxing match for CALM charity, after only 10 weeks training. Sold 36 tickets.
-* **Volunteering**: Urdu translator surveying Calais ‘Jungle’ for Help Refugees; census published in The Guardian.
+<h2>INTERESTS</h2>
+
+<ul>
+    <li><b>Cycling</b>: Spent 12 days bike-packing the Netherlands in Aug 2023, completed the 1000km Ronde van Nederland.</li>
+    <li><b>Travelling</b>: Travelled Southeast Asia Nov 2022 to Feb 2023; highlight was mountain-biking around Angkor Wat.</li>
+    <li><b>Boxing</b>: Competed in a white collar boxing match for CALM charity, after only 10 weeks training. Sold 36 tickets.</li>
+    <li><b>Volunteering</b>: Urdu translator surveying Calais ‘Jungle’ for Help Refugees; census published in The Guardian.</li>
+</ul>
