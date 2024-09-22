@@ -1,5 +1,6 @@
 ---
 title: "hello it's joyyy"
+description: "dis da description"
 ---
 
 <head>
