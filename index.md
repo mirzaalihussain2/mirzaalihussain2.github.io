@@ -110,6 +110,10 @@
     em, i {
         font-style: italic
     }
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
     </style>
 </head>
 
@@ -120,10 +124,11 @@
 <i>Building tech products for 5 years across B2B & B2C startups, as a Product Manager and Software Engineer.<br>
 Experience defining a product vision, validating customer problems, and leading an engineering squad to delivery.</i>
 </p>
+<br>
 
 ## EXPERIENCE
 <h3>
-    <b>Gizmo</b>, Software Engineer
+    <a href="https://gizmo.ai/"><b>Gizmo</b></a>, Software Engineer
     <div style="text-align: right"><b><i>Apr 2024 – Present</i></b></div>
 </h3>
 
@@ -136,7 +141,7 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <br>
 <h3>
-    <b>Startbook</b>, Software Engineer
+    <a href="https://startbook.co.uk/"><b>Startbook</b></a>, Software Engineer
     <div style="text-align: right"><b><i>Aug 2023 – Apr 2024</i></b></div>
 </h3>
 
@@ -150,7 +155,7 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <br>
 <h3>
-    <b>Limitless Technology</b>, Product Manager
+    <a href="https://www.limitlesstech.com/"><b>Limitless Technology</b></a>, Product Manager
     <div style="text-align: right"><b><i>Nov 2019 – Oct 2022</i></b></div>
 </h3>
 
@@ -167,7 +172,7 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <br>
 <h3>
-    <b>Quester</b>, Product Coach
+    <a href="https://quester.io/"><b>Quester</b></a>, Product Coach
     <div style="text-align: right"><b><i>Aug 2021 – Oct 2022</i></b></div>
 </h3>
 
@@ -176,12 +181,14 @@ Experience defining a product vision, validating customer problems, and leading 
 
 <br>
 <h3>
-    <b>Verisk Sequel (S&P 500)</b>, Technical Business Analyst
+    <a href="https://www.verisksequel.com/"><b>Verisk Sequel (S&P 500)</b></a>, Technical Business Analyst
     <div style="text-align: right"><b><i>Feb 2019 – Sep 2019</i></b></div>
 </h3>
 
 * Built modern web UIs for flagship insurance engine, used by 3000+ underwriters and brokers globally.
 * Owned delivery of 4 features, incl. wireframes, requirements, and unblocking engineers during development.
+
+<br>
 
 ## EDUCATION
 
@@ -192,11 +199,15 @@ Experience defining a product vision, validating customer problems, and leading 
 
 * JCR President _(2016-17)_ representing 450 students, leading a 35-strong team and overseeing a £28.7k budget.
 
+<br>
+
 ## TECHNICAL SKILLS
 * **Languages**: TypeScript, Python, SQL, HTML, CSS.
 * **Frameworks & libraries**: React (Next.js, Remix), React Native (Expo), Angular, Svelte, Express, Koa, Flask, Django.
 * **Databases**: PostgreSQL, mySQL, Firebase, mongoDB, Redis.
 * **DevOps**: Docker, GCP , Vercel & Heroku (for deployment), GitHub Actions (for CI), BetterStack (for observability).
+
+<br>
 
 ## INTERESTS
 * **Cycling**: Spent 12 days bike-packing the Netherlands in Aug 2023, completed the 1000km Ronde van Nederland.
