@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -116,7 +120,6 @@
     }
     </style>
 </head>
-
 
 <h1 style="text-align: center">ALI HUSSAIN</h1>
 
