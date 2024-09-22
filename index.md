@@ -2,6 +2,7 @@
 title: "hello it's joyyy"
 show_title: false
 description: "dis da description"
+layout: default
 ---
 
 <head>
@@ -119,6 +120,9 @@ description: "dis da description"
     a {
         color: inherit;
         text-decoration: none;
+    }
+    .site-title, .project-name {
+        display: none !important;
     }
     </style>
 </head>
