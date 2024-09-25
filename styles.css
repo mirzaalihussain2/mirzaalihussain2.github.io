@@ -133,3 +133,19 @@ body {
     .hide-on-desktop { display: none; }
     .negative-margin { margin-top: -1em; }
 }
+
+/* For dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1C1C1E;
+        color: #F5F5F5;
+    }
+}
+
+/* For light mode */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #F5F5F5;
+        color: #1C1C1E;
+    }
+}
