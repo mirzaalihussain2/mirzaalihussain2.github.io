@@ -69,31 +69,26 @@
     font-style: italic;
 }
 h1 {
-    font-size: 32px;
     font-family: "Lato", sans-serif;
     font-weight: 900;
     font-style: normal;
 }
 h2 {
-    font-size: 24px;
     font-family: "Lato", sans-serif;
     font-weight: 900;
     font-style: normal;
 }
 h3 {
-    font-size: 20px;
     font-family: "Carlito", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 h4 {
-    font-size: 14px;
     font-family: "Lato", sans-serif;
     font-weight: 300;
     font-style: italic;
 }
 p, ul {
-    font-size: 14px;
     font-family: "Carlito", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -122,6 +117,8 @@ body {
 @media only screen and (max-width: 768px) {
     h4, p, ul { font-size: 14px; }
     h3 { font-size: 16px; }
+    h2 { font-size: 20px; }
+    h1 { font-size: 28px; }
     .hide-on-mobile { display: none; }
     .negative-margin { margin-top: 0; }
 }
@@ -130,6 +127,8 @@ body {
 @media only screen and (min-width: 769px) {
     h4, p, ul { font-size: 16px; }
     h3 { font-size: 18px; }
+    h2 { font-size: 24px; }
+    h1 { font-size: 32px; }
     .hide-on-desktop { display: none; }
     .negative-margin { margin-top: -1em; }
 }
